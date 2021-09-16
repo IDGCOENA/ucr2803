@@ -32,15 +32,15 @@
       <keyMapping columnObjectName="Projection_1" columnName="DST_TRIPID_NEWID"/>
     </attribute>
     <attribute id="DST_LONGITUDE" order="2" displayAttribute="false" attributeHierarchyActive="false">
-      <descriptions defaultDescription="LONGITUDE"/>
+      <descriptions defaultDescription="DST_LONGITUDE"/>
       <keyMapping columnObjectName="Projection_1" columnName="LONGITUDE"/>
     </attribute>
     <attribute id="DST_LATITUDE" order="3" displayAttribute="false" attributeHierarchyActive="false">
-      <descriptions defaultDescription="LATITUDE"/>
+      <descriptions defaultDescription="DST_LATITUDE"/>
       <keyMapping columnObjectName="Projection_1" columnName="LATITUDE"/>
     </attribute>
     <attribute id="DST_POINTS" order="4" displayAttribute="false" attributeHierarchyActive="false">
-      <descriptions defaultDescription="POINTS"/>
+      <descriptions defaultDescription="DST_POINTS"/>
       <keyMapping columnObjectName="Projection_1" columnName="POINTS"/>
     </attribute>
   </attributes>
