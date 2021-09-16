@@ -43,7 +43,7 @@ Follow the below steps with their corresponding videos:
     Video 5 HANA to SAC Live Data Connection.mp4
     
   6. Build and Visualize SAC Models based on HANA Database Objects
-    Video 6 .mp4
+    Video 6 Create SAC Models and Stories.mp4
 
 Find the videos in the following sharepoint:
 https://sapnam-my.sharepoint.com/:f:/g/personal/stephanie_butler_sap_com/EqxPyUPfb5tPsVQqh9cj6xMBDR_yNIM9dV75UMJcprljeQ?e=9Rouhg
