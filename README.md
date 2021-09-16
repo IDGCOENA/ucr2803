@@ -1,14 +1,16 @@
 # SPATIAL_MULTIMODEL
 
-Follow the below steps with their corresponding Videos:
+Follow the below steps with their corresponding videos:
   1. Setting up the SAP Business Application Studio
     Video 1 BAS Access and Configuration.mp4
+    
   2. Import Catalog Objects into HANA Cloud
     Video 2 Catalog Import.mp4
+    
   3. Set up of Pre-requisites for Spatial Project, Clone from the Git Repository and Deploy
     Video 3 Project Configuration and Deployment.mp4
     
-    Additional Scripts needed: 
+    Additional scripts needed: 
     
     CREATE USER UPS_SPATIAL_DATA_USER  PASSWORD "Demo2021!" NO FORCE_FIRST_PASSWORD_CHANGE;
     GRANT SELECT , EXECUTE , SELECT METADATA , CREATE ANY  ON SCHEMA SPATIAL_DATA TO 
@@ -32,10 +34,17 @@ Follow the below steps with their corresponding Videos:
     
   4. Setup of Database User for SAC Development
     Video 4 Create SAC Database User.mp4
+    
+    Additional scripts needed:
+    
+    CREATE USER SAC_TRIAL_USER  PASSWORD "Demo2021!" NO FORCE_FIRST_PASSWORD_CHANGE; 
+    
   5. Configure a Live Connection from SAC to HANA
-    Video 5 .mp4
+    Video 5 HANA to SAC Live Data Connection.mp4
+    
   6. Build and Visualize SAC Models based on HANA Database Objects
     Video 6 .mp4
 
 Find the videos in the following sharepoint:
+https://sapnam-my.sharepoint.com/:f:/g/personal/stephanie_butler_sap_com/EqxPyUPfb5tPsVQqh9cj6xMBDR_yNIM9dV75UMJcprljeQ?e=9Rouhg
 
