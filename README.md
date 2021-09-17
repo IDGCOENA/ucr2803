@@ -1,10 +1,5 @@
 # SPATIAL_MULTIMODEL
 
-Mission Introduction
-
-  Mission Introduction.mp4
-
-
 Follow the below steps with their corresponding videos:
   1. Setting up the SAP Business Application Studio
    
