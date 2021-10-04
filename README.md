@@ -26,7 +26,7 @@ Follow the below steps with their corresponding videos:
     "encrypt": true,
     "endpoint": "https://api.cf.us10.hana.ondemand.com",
     "host": "You HANA host from HANA Cloud Cockpit",
-    "password": "Demo2021",
+    "password": "Demo2021!",
     "port": "443",
     "tags": [
         "hana"
