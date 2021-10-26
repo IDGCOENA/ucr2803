@@ -1,17 +1,17 @@
 # SPATIAL_MULTIMODEL
 
 Follow the below steps with their corresponding videos:
-  1. Setting up the SAP Business Application Studio
-   
-      Video 1 BAS Access and Configuration.mp4
+  1. Mission Architecture Review
     
-  2. Import Catalog Objects into HANA Cloud
+        MISSION INTRODUCTION.mp4
     
-      Video 2 Catalog Import.mp4
+  2. Import the schema into HANA Cloud
     
-  3. Set up of Pre-requisites for Spatial Project, Clone from the Git Repository and Deploy
+        IMPORT CATALOG OBJECTS.mp4
+    
+  3. Configure and deploy GIT repositories in Business Application Studio
       
-      Video 3 Project Configuration and Deployment.mp4
+        CONFIGURE and DEPLOY GIT REPOSITORY IN HANA CLOUD.mp4
     
     Additional scripts needed: 
     
@@ -35,19 +35,23 @@ Follow the below steps with their corresponding videos:
     "validate_certificate": false
     }
     
-  4. Setup of Database User for SAC Development
-    Video 4 Create SAC Database User.mp4
-    
+  4. Create a SAP Analytics Cloud user and assign a role
+
+        CREATE SAC USER and ASSIGN ROLES.mp4
+   
     Additional scripts needed:
     
     CREATE USER SAC_TRIAL_USER  PASSWORD "Demo2021!" NO FORCE_FIRST_PASSWORD_CHANGE; 
     
-  5. Configure a Live Connection from SAC to HANA
+  5. Create a live data connection from HANA Cloud to SAP Analytics Cloud
     
-      Video 5 HANA to SAC Live Data Connection.mp4
+        LIVE HANA CLOUD CONNECTION IN SAC.mp4
     
-  6. Build and Visualize SAC Models based on HANA Database Objects
+  6. Build a data model and story in SAP Analytics Cloud for the truck trips scenario
     
-      Video 6 Create SAC Models and Stories.mp4
+      TRUCK TRIPS SAC MODEL AND STORY.mp4
 
+  7. Build a data model and story in SAP Analytics Cloud for the fire burning scenario
+    
+      FIRE BURNING LOCATOINS SAC MODEL AND STORY.mp4
 
