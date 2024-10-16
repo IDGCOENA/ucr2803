@@ -1,5 +1,5 @@
 {
-	"minimum_feature_version": "1005",
+	"minimum_feature_version": "1009",
 	"file_suffixes": {
 		"hdbapplicationtime": {
 			"plugin_name": "com.sap.hana.di.applicationtime"
@@ -135,6 +135,12 @@
 		},
 		"hdbvirtualtableconfig": {
 			"plugin_name": "com.sap.hana.di.virtualtable.config"
-		}
+		},
+		"hdbschedulerjob": {
+			"plugin_name": "com.sap.hana.di.schedulerjob"
+		},
+		"hdbeshconfig": {
+            "plugin_name": "com.sap.hana.di.eshconfig"
+        }
 	}
 }
